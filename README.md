@@ -19,7 +19,7 @@ I am Michał, a self-taught Java developer in training, constantly honing my ski
 
 ### 📊 Stats
 
-![tamtejszystan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamtejszystan&show_icons=true&theme=gruvbox&count_private=true)
+![tamtejszystan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamtejszystan&show_icons=true&theme=algolia&count_private=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tamtejszystan&theme=gruvbox&border_radius=4.5) -->
 
