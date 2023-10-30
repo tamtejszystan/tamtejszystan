@@ -24,3 +24,5 @@ I am Michał, a self-taught Java developer in training, constantly honing my ski
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tamtejszystan&theme=gruvbox&border_radius=4.5) -->
 
 #
+![](https://komarev.com/ghpvc/?username=tamtejszystan)
+#
